@@ -1,6 +1,6 @@
 # **DisTalk – Android App**
 
-DisTalk ist eine native Android-App, die das Web-Interface von [DisTalk](https://app.distalk.eu) in eine echte App-Erfahrung verwandelt. Kein sichtbarer Browser, sauberes App-Icon, Splashscreen und volle Android-Integration.
+DisTalk ist eine native Android-App, die das Web-Interface von [DisTalk](https://app.distalk.app) in eine echte App-Erfahrung verwandelt. Kein sichtbarer Browser, sauberes App-Icon, Splashscreen und volle Android-Integration.
 
 ---
 
